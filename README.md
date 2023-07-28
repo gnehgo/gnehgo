@@ -1,6 +1,6 @@
 ### **Hi there, I'm Kirill👋🏾**
 ### *Creativity developer from Russia🧑🏾‍💻*
-#
+
 - 💻 I'm Frontend developer
 - 📖 I’m currently learning JavaScript
 - 🌎 I speak Russian/English
