@@ -1,7 +1,7 @@
-### Hi there,I'm Kirill
+### Hi there, I'm Kirill from Russia
 
 - 💻 I'm Frontend developer
-- 🌱 I’m currently learning JavaScript
+- 📖 I’m currently learning JavaScript
 - 🌎 I speak Russian/English
 <!--
 **gnehgo/gnehgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
