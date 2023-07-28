@@ -1,4 +1,4 @@
-### Hi everyone
+### Hi there,I'm Kirill
 
 - 💻 I'm Frontend developer
 - 🌱 I’m currently learning JavaScript
