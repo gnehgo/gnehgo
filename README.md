@@ -7,6 +7,7 @@
 - 💻 I'm Frontend developer
 - 📖 I’m currently learning JavaScript
 - 🌎 I speak Russian/English
+- 🪄Start developer career
 <!--
 **gnehgo/gnehgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
