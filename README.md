@@ -6,7 +6,7 @@
 - 💻 I'm Frontend developer
 - 📖 I’m currently learning JavaScript
 - 🌎 I speak Russian/English
-- 🪄Start developer career
+- 🪄Starting developer career
 - You can see my React projects on this **[site](https://kirilloganyanwork.ru)**
 #
 ### Frontend:
